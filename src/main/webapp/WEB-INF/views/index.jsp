@@ -46,7 +46,8 @@
           </a>
         <div class="text">
           <h1>Congratulations!</h1>
-          <h2>You just created a Java Spring web application.</h2>
+          <h2>You just created a Java Spring web application using AWS CodeStar!</h2>
+
         </div>
       </div>
     </div>
